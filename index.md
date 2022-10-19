@@ -1,10 +1,10 @@
-#Family secret receipes
+#Xinyan's Family secret receipes
 
 Set of receipes as given by grandma.
 
 -pizzas(TODO)
 -sauces(TODO)
--spreads(TODO)
+-reads(TODO)
 
 1234
 57
